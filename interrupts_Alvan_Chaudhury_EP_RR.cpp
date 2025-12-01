@@ -4,7 +4,7 @@
 * @brief External Priority with Preemption and Round Robin for Assignment 3 Part 1
 */
 
-#include "interrupts_student1_student2.hpp"
+#include "interrupts_Alvan_Chaudhury.hpp"
 
 const unsigned int TIME_QUANTUM = 100;
 

@@ -4,7 +4,7 @@
 * @brief External Priority Scheduler (No Preemption) for Assignment 3 Part 1
 */
 
-#include "interrupts_student1_student2.hpp"
+#include "interrupts_Alvan_Chaudhury.hpp"
 
 // External Priority Scheduler - sorts by priority (lower value = higher priority)
 void priority_scheduler(std::vector<PCB> &ready_queue) {
