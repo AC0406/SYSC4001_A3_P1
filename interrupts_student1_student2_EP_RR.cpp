@@ -1,6 +1,6 @@
 /**
 * @file interrupts_EP_RR.cpp
-* @author Sasisekhar Govind
+* @author Alvan Chaudhury
 * @brief External Priority with Preemption and Round Robin for Assignment 3 Part 1
 */
 

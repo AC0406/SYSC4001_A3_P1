@@ -1,6 +1,6 @@
 /**
 * @file interrupts_RR.cpp
-* @author Sasisekhar Govind
+* @author Alvan Chaudhury
 * @brief Round Robin Scheduler (100ms quantum) for Assignment 3 Part 1
 */
 

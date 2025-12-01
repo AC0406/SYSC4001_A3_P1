@@ -1,6 +1,6 @@
 /**
 * @file interrupts_EP.cpp
-* @author Sasisekhar Govind
+* @author Alvan Chaudhury
 * @brief External Priority Scheduler (No Preemption) for Assignment 3 Part 1
 */
 
